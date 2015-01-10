@@ -1,4 +1,4 @@
-Test Blog App - Mashrur Test
+Test Blog App - Mashrur
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
