@@ -1,4 +1,4 @@
-Test Blog App - Mashrur
+Test Rails Blog App - Travis
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
